@@ -4,7 +4,7 @@ title:  "Aniversario, dia-a-dia e Doctor."
 date:   2016-02-04 00:20:40 -0300
 categories: jekyll update
 ---
-![Bolo de cenoura!]({{ site.url }}/assets/a.jpg "stuff")
+![Bolo de cenoura!]({{ site.url }}/assets/2016-01-17 01.57.19 1.jpg)
 
 Oi, gente! Demorei bastante pra postar dessa vez, né? Essa vida de estar sem celular tá uma merdinha... eu esqueço sempre de tirar fotos das coisas pra poder postar e não tenho filtros legais pra editar depois (**first world problems**). Acabou que encontramos uma câmera velhona aqui em casa, só que a qualidade das fotos é bem ruinzinha... então nem dá muito ânimo de ficar tirando foto toda hora, né? Não vejo a hora de terminar essa faculdade e ficar ryca logo! hahha
 
