@@ -9,7 +9,7 @@
 title: Bjorkista
 email: bjorkista@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Uma brasileira, um português, um golden retriever e duas bicicletas pelo mundo.
+    A love letter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.bjorkista.tk" # the base hostname & protocol for your site
 twitter_username: bjorkista
