@@ -4,6 +4,6 @@ title:  "Big eyes"
 date:   2016-05-15 12:00:00 -0300
 categories: eyes
 ---
-![Giggly]({{ site.url }}/assets/IMG_20150815_171335868.jpg "Giggly")
+![Eyes]({{ site.url }}/assets/IMG_20150815_171335868.jpg "Eyes")
 
 Big eyes, bigger heart!
