@@ -4,6 +4,6 @@ title:  "Sun"
 date:   2016-07-04 12:00:00 -0300
 categories: sun
 ---
-![Hello]({{ site.url }}/assets/IMG_20160617_150728.jpg "Sun")
+![Sun]({{ site.url }}/assets/IMG_20160617_150728.jpg "Sun")
 
 She's my sun!
