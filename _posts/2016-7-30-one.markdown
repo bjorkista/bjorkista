@@ -1,1 +1,9 @@
-IMG_20160730_203038059.jpg
+---
+layout: post
+title:  "Follow"
+date:   2016-07-30 12:00:00 -0300
+categories: Craftsy
+---
+![Craftsy]({{ site.url }}/assets/IMG_20160730_203038059.jpg "Craftsy")
+
+One for the road.
